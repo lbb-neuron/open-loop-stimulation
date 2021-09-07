@@ -2,7 +2,7 @@
 
 The here presented code can be used to stimulate and record the activity of biological neuronal networks. The code has been written for the MEA2100 IFB (version 3) using 60 electrode mini headstages (MEA2100-Mini-60) from Multi Channel Systems.
 
-This code is an adaptation of the example coded generously provided by Multi Channel Systems (Multi Channel Systems MCS GmbH, Germany). 
+This code is an adaptation of the example code generously provided by Multi Channel Systems (Multi Channel Systems MCS GmbH, Germany). The original example code can be found [here](https://github.com/multichannelsystems/McsDspRealtimeFeedback).
 
 ### Simulation_Software
 
